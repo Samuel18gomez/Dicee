@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "diceeLogo.png",
+      "filename" : "loser.jpeg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "diceeLogo@2x.png",
+      "filename" : "loser@2x.jpeg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "diceeLogo@3x.png",
+      "filename" : "loser@3x.jpeg",
       "idiom" : "universal",
       "scale" : "3x"
     }
